@@ -1,3 +1,2 @@
 ＃8pos
-# 8pos
-# 8pos
+https://hoshimotoyasunori.github.io/8pos/
