@@ -26,7 +26,7 @@
       <br>
 
       <p class="devise-link">
-        アカウントをお持ちでないですか？？
+        アカウントをお持ちでないですか？
         <a href="{{ route('register') }}">登録</a>
       </p>
 
